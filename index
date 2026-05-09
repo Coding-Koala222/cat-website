@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="icon" type="image/x-icon" href="images/favicon.png">
         <title>Cat Website</title>
     </head>
     
@@ -9,6 +10,6 @@
         <h1>What is a cat?</h1>
         <p>House cats are a species of animal commnly found in peope's houses. They are a domesticated species in the cat family.</p>
         
-        <button type="button" href="https://www.google.com">Click me</button>
+        <a href="https://www.google.com">Click me</a>
     </body>
 </html>
